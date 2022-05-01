@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foodsmith/static/css/main.95a9ea20.css",
+    "main.js": "/foodsmith/static/js/main.2f58d5b9.js",
+    "index.html": "/foodsmith/index.html",
+    "main.95a9ea20.css.map": "/foodsmith/static/css/main.95a9ea20.css.map",
+    "main.2f58d5b9.js.map": "/foodsmith/static/js/main.2f58d5b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95a9ea20.css",
+    "static/js/main.2f58d5b9.js"
+  ]
+}
